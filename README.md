@@ -1,5 +1,9 @@
 # Minecraft_Plugins
 
+### Minecraft GPT:
+A plugin that links ChatGPT and Minecarft where Users can input a request to ChatGPT and receive a response.\
+https://github.com/NickAwrist/MinecraftGPT
+
 ### Hardcore Plugin:
 A plugin that creates a hardcore minecraft gamemode for multiplayer server.\
 https://github.com/NickAwrist/Hardcore_Plugin
